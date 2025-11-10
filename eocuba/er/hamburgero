@@ -1,0 +1,5 @@
+<!-- Kaŝita kontrolboks – la sola stato‑ŝanĝanto -->
+<input type="checkbox" id="menu-toggle" class="menu-toggle">
+
+<!-- Hamburger‑butono (ligas al la kontrolboks) -->
+<label for="menu-toggle" class="hamburger"><span></span></label>

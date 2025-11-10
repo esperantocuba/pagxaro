@@ -1,0 +1,14 @@
+<!-- Overlay‑menuo – videblas nur kiam la kontrolboks estas markita -->
+<nav class="overlay-menu"> <!-- mi provis style="margin:5em;" sed tiu lasis koloron maldekstre! -->
+	<div class="col span_1_of_2" style= "background: #fcc;">
+<?php
+   include ( 'er/menu-es' ) ;
+?>
+	</div>
+	<div class="col span_1_of_2" style= "background: #cfc;">
+<?php
+   include ( 'er/menu-eo' ) ;
+?>
+	</div>
+
+</nav>

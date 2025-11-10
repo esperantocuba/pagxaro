@@ -1,0 +1,23 @@
+<footer>
+	<div class="col span_1_of_3" style= "background: #fcc;">
+<?php
+   include ( 'er/menu-es' ) ;
+?>
+	</div>
+	<div class="col span_1_of_3" style= "background: #cfc;">
+<?php
+   include ( 'er/menu-eo' ) ;
+?>
+	</div>
+	<div class="col span_1_of_3" style= "background: #ccc;">
+	<h3>ktp</h3>
+		<p>Ligaro, aŭ notoj, novaĵoj, eventoj ... laŭ via plaĉo.</li>
+	</div>
+</div>
+
+<div style="text-align:center; margin: 1em; clear: both;">
+<p>© 2025 by <a href="https://EsperantoCuba.org">Esperanto Cuba . org</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"></p>
+</div>
+</footer>
+</body>
+</html>
