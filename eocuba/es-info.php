@@ -22,7 +22,7 @@
 
 <!-- Ĉefa kapa enhavo -->
 <header class="main-header">
-    <h1><a href="index2.php">Esperanto Cuba . org</a></h1>
+    <h1><a href="index.php">Esperanto Cuba . org</a></h1>
     <p>-- paĝ-nomo --</p>
 </header>
 
